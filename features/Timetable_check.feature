@@ -3,7 +3,7 @@ Feature:Timetable check
   So I need to check the timetable
   I want to check my timetable
 
-Backgroup:User in database
+Backgroud:User in database
 
 Given the following contact exists:
 |name      |email               |
