@@ -3,7 +3,7 @@ Feature:Timetable upload
   So I need to upload the timetable
   I want to upload and edit my timetable
 
-Backgroup:User in database
+Backgroud:User in database
 
 Given the following contact exists:
 |name      |email               |
