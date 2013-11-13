@@ -6,8 +6,8 @@ Feature:Timetable check
 Backgroup:User in database
 
 Given the following contact exists:
-|name      |email                 |
-|Yitong Cui|yitong_cui@hotmail.com|
+|name      |email               |
+|Yitong Cui|yitong_cui@gmail.com|
 
 Scenario:check timetable
   When I go to the timetable page for "Yitong Cui"
